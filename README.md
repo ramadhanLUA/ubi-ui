@@ -21,9 +21,9 @@ end)
 
 using example:
 show:
-exports['aw3-ui']:showInteraction("interaction message")
+exports['ubi-ui']:showInteraction("interaction message")
 hide:
-exports['aw3-ui']:hideInteraction()
+exports['ubi-ui']:hideInteraction()
 
 
 with color:
